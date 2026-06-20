@@ -19,3 +19,7 @@ A Streamlit-based application that helps students prepare for interviews through
 ## Status
 
 Currently under active development.
+
+##Author
+
+Osheen Thakur
