@@ -1,26 +1,56 @@
-# 🎯 Interview Preparation Assistant
+# 🎯 AI Interview Preparation Assistant
 
-A Streamlit-based application that helps students prepare for interviews through role-based and difficulty-based interview questions.
+An AI-powered interview preparation platform built using Streamlit and Groq LLM.
 
-## Features
+The application generates role-based interview questions, allows users to write answers, and provides AI-powered feedback including scores, strengths, weaknesses, and improved answers.
 
-* Multiple Job Roles
-* Beginner, Intermediate and Advanced Levels
-* Question Generation
-* Model Answers
-* Interview Tips
-* Practice Progress Tracking
+## 🚀 Features
 
-## Tech Stack
+* AI-generated interview questions
+* Multiple job roles support
+
+  * Software Engineer
+  * Data Analyst
+  * Frontend Developer
+  * AI/ML Engineer
+* Beginner, Intermediate, and Advanced difficulty levels
+* Generate up to 20 interview questions
+* Answer writing section
+* AI-powered answer evaluation
+* Detailed feedback and scoring
+* Interview preparation tips
+* Practice progress tracker
+
+## 🛠️ Tech Stack
 
 * Python
 * Streamlit
+* Groq API
+* Llama 3.3 70B Versatile
 
-## Status
+## 💡 How It Works
 
-Currently under active development.
+1. Select a job role.
+2. Choose a difficulty level.
+3. Generate AI-powered interview questions.
+4. Write your answers in the provided answer boxes.
+5. Click "Evaluate Answers".
+6. Receive detailed AI feedback and scoring.
 
-##Author
+## 🎯 Future Improvements
 
-Osheen Thakur
-B.tech CSE Student
+* Resume-based interview questions
+* Voice interview simulation
+* Mock interview mode
+* PDF report generation
+* Interview performance analytics
+* Personalized learning recommendations
+
+## 👩‍💻 Author
+
+**Osheen Thakur**
+
+B.Tech Computer Science Engineering Student
+
+Passionate about AI, Software Development, and Building Real-World Projects.
+
