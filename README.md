@@ -50,7 +50,7 @@ The application generates role-based interview questions, allows users to write 
 
 **Osheen Thakur**
 
-B.Tech Computer Science Engineering Student
+B.Tech Computer Science Engineering Student.
 
 Passionate about AI, Software Development, and Building Real-World Projects.
 
